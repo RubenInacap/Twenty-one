@@ -1,6 +1,4 @@
 Hola
-<<<<<<< HEAD
 como estas 
-=======
-Como estas
->>>>>>> 33cf150330305beab3eed4fab742dc87d7737daa
+
+
